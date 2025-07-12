@@ -1,0 +1,4 @@
+email,senha,resultadoEsperado
+test@test.com,test1234,true
+usuario_invalido@teste.com,senhaerrada,false
+test@test.com,senhaerrada,false
